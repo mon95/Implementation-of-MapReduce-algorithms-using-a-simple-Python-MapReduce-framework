@@ -36,7 +36,7 @@ Given a set of documents, an inverted index is a dictionary where each word is a
 <span>Verify this  against inverted_index.json.</span>
 
 
-<span>Implementing a relational join as a MapReduce query</span>
+# <span>Implementing a relational join as a MapReduce query</span>
 
 <span>Consider the following query:</span>
 
